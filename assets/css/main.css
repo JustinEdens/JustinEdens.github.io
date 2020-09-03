@@ -3027,7 +3027,8 @@ input, select, textarea {
 		}
 
 		table td {
-			padding: 0.75rem 5rem;
+			padding: 0.75rem 5%;
+			border-collapse: collapse;
 		}
 
 		table th {

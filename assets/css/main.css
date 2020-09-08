@@ -47,7 +47,7 @@ blockquote, q {
 	}
 
 .about-table {
-	background-color: darkgray;
+	background-color: lightgray;
 	padding: 5%;
 }
 
@@ -60,13 +60,13 @@ blockquote, q {
 }
 
 .degrees {
-	background-color: darkgray;
+	background-color: lightgray;
 	padding: 5%;
 	margin-bottom: 30px;
 }
 
 .contact-area {
-	background-color: darkgray;
+	background-color: lightgray;
 	padding: 5%;
 }
 
@@ -3040,7 +3040,7 @@ input, select, textarea {
 		padding-left: 5%;
 		width: 100%;
 		color: #717981;
-		background-color: darkgray;
+		background-color: lightgray;
 		color: #909498;
 	}
 
